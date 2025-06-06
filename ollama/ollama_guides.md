@@ -59,3 +59,25 @@
 - [https://youtu.be/RvBbbNhOmrE?si=Pbjf2EED02bcibXy](https://youtu.be/RvBbbNhOmrE?si=Pbjf2EED02bcibXy)
 
 - [https://youtu.be/_4K20tOsXK8?si=900kO5H8sr7h-j5u](https://youtu.be/_4K20tOsXK8?si=900kO5H8sr7h-j5u)
+
+- [https://www.youtube.com/watch?v=2Pm93agyxx4](https://www.youtube.com/watch?v=2Pm93agyxx4)
+
+- [https://www.youtube.com/watch?v=NqtR900jMPQ&t=1143s](https://www.youtube.com/watch?v=NqtR900jMPQ&t=1143s)
+
+- [https://www.youtube.com/watch?v=swKKRdLBhas](https://www.youtube.com/watch?v=swKKRdLBhas)
+
+- [https://www.youtube.com/watch?v=MDbdb-W4x4w&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=91](https://www.youtube.com/watch?v=MDbdb-W4x4w&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=91)
+
+- [https://www.youtube.com/watch?v=bXf2Cxf3Wk0&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=43](https://www.youtube.com/watch?v=bXf2Cxf3Wk0&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=43)
+
+- [https://www.youtube.com/watch?v=p5O-_AiKD_Q&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=48](https://www.youtube.com/watch?v=p5O-_AiKD_Q&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=48)
+
+- [https://www.youtube.com/watch?v=vFGng_3hDRk&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=52](https://www.youtube.com/watch?v=vFGng_3hDRk&list=PLO30wIj8QSRDxDvYzKYeBttEwIs2jI56W&index=52)
+
+- [https://www.youtube.com/watch?v=1DRS5KaLe3k](https://www.youtube.com/watch?v=1DRS5KaLe3k)
+
+- [https://github.com/EndoTheDev/OllaMoMa/tree/main](https://github.com/EndoTheDev/OllaMoMa/tree/main)
+
+- [https://github.com/technovangelist/videoprojects](https://github.com/technovangelist/videoprojects)
+
+- [https://github.com/endo9000/OllaMoMa](https://github.com/endo9000/OllaMoMa)
