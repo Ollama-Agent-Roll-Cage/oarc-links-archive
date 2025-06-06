@@ -81,3 +81,15 @@
 - [https://github.com/technovangelist/videoprojects](https://github.com/technovangelist/videoprojects)
 
 - [https://github.com/endo9000/OllaMoMa](https://github.com/endo9000/OllaMoMa)
+
+- [https://github.com/lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+
+- [https://github.com/ollama/ollama-js](https://github.com/ollama/ollama-js)
+
+- [https://ollama.com/library/llama3.2](https://ollama.com/library/llama3.2)
+
+- [https://ollama.com/qnguyen3/nanollava](https://ollama.com/qnguyen3/nanollava)
+
+- [https://ollama.com/blog/embedding-models](https://ollama.com/blog/embedding-models)
+
+- [https://huggingface.co/spaces/unclemusclez/ollamafy/blob/main/ollamafy.sh](https://huggingface.co/spaces/unclemusclez/ollamafy/blob/main/ollamafy.sh)
